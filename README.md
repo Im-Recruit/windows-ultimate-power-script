@@ -36,7 +36,3 @@ After the script runs, you can check your Power & Sleep settings:
 1.  Press `Windows Key` + `R` and type `powercfg.cpl`.
 2.  In the Power Options window, only the following plans should remain visible:
     * **Ultimate Performance** (Active)
-
-## 🛑 Important Note on Deletion
-
-The script is safe and designed to only delete **custom-created** power schemes. It will **not** delete the built-in Windows defaults (Balanced, Power Saver, High Performance) or the scheme that is currently active.
