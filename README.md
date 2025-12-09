@@ -36,9 +36,6 @@ After the script runs, you can check your Power & Sleep settings:
 1.  Press `Windows Key` + `R` and type `powercfg.cpl`.
 2.  In the Power Options window, only the following plans should remain visible:
     * **Ultimate Performance** (Active)
-    * **Balanced**
-    * **Power Saver**
-    * *(Potentially High Performance, depending on your OS version)*
 
 ## 🛑 Important Note on Deletion
 
